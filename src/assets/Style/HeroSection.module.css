@@ -1,0 +1,26 @@
+.heroSection {
+  margin-top: 8rem;
+}
+
+.heroText {
+  padding-top: 5rem;
+  padding-left: 5rem;
+}
+
+.heroText h1 {
+  color: rgba(0, 0, 0, 0.829);
+  font-size: 3rem;
+  font-weight: 800;
+  text-transform: capitalize;
+}
+
+.heroText p {
+  color: #c6483e;
+  font-weight: 500;
+}
+
+.heroText h2 {
+  color: #f81b39;
+  font-weight: 700;
+  margin-bottom: 3rem;
+}

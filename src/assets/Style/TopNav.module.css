@@ -1,0 +1,61 @@
+.logo {
+  text-decoration: none !important;
+  color: hotpink !important;
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+}
+
+.navLInk {
+  padding: 1rem;
+  margin-left: 22%;
+}
+
+.navItem {
+  padding-right: 1.2rem;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.738);
+  font-weight: 500;
+}
+
+.navIconBox {
+  margin-left: 15rem !important;
+  position: relative !important;
+}
+
+.navIcon {
+  font-size: 1.5rem;
+  padding-right: 1rem;
+  color: rgba(0, 0, 0, 0.749);
+}
+
+.ItemNumber {
+  background-color: #000;
+  border-radius: 100%;
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 21px;
+  position: absolute;
+  right: 10% !important;
+  text-align: center;
+  top: -5px;
+  height: 21px;
+  width: 21px;
+}
+
+.wishList {
+  background-color: #000;
+  border-radius: 100%;
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 21px;
+  position: absolute;
+  right: 40% !important;
+  text-align: center;
+  top: -5px;
+  height: 21px;
+  width: 21px;
+}

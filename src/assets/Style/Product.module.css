@@ -1,0 +1,40 @@
+.productCard {
+  margin-top: 5rem;
+  background-color: #f6f6f6;
+  padding: 1rem;
+  position: relative;
+  box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.184);
+  border-radius: 5px;
+}
+
+.productName {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.8rem;
+}
+
+.offer {
+  position: absolute;
+  top: 2%;
+  right: 2%;
+  padding: 0rem 1rem;
+}
+
+.offer p:nth-child(1) {
+  background-color: #fa6bff;
+  padding: 0.1rem 0.3rem;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.offer p:nth-child(2) {
+  margin-top: -0.5rem;
+  background-color: #a749ff;
+  padding: 0.1rem 0.1rem;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 3px;
+  text-align: center;
+}
